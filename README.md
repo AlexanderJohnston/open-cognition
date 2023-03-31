@@ -9,4 +9,5 @@ To identify anything we may be missing and to bring all of the pieces of a Cogni
 
 We first need to discuss what our hopes are while we bring all of our expertise to the table to agree on a common definition of a Cognitive Architecture which suits our needs. For the time being, all that is needed is to share ideas and opinions and build consensus.
 
-... TBD ...
+**Where do I start?**
+Check out the [Initial Design Phase](Phase 1 - Initial Design/)
