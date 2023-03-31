@@ -1,5 +1,7 @@
 # Cognitive Architecture
 
+![Cognitive Architecture](./Cognitive-Architecture.png)
+
 ## Overview
 
 ### Participants
